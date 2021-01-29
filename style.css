@@ -1,0 +1,42 @@
+#date1{
+    float: right;
+}
+.first {
+     width: 500px; 
+     background-color: white;
+}
+
+h2 {
+    float: left;
+}
+
+
+img {
+     width: 500px; height: 500px;
+     
+}
+.tittle{
+  float:left;
+  background-color: white;
+}
+.date{
+  float:right;
+  background-color: white;
+
+}
+
+body {background-color: beige;}
+
+.container {
+    margin: 35%;
+    margin-top: 0%;
+    margin-bottom: 0%;
+}
+  
+
+h1 {text-align: center;
+background-color: green;
+}
+.encabezado-1 { background-color: white;}
+
+.pie { background-color: teal;}
